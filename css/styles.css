@@ -1,0 +1,132 @@
+
+body{
+color: #40515E;
+margin: 0;
+text-align: center;
+font-family: 'Montserrat', sans-serif;
+font-weight: 600;
+
+
+}
+
+h1{
+margin: auto;
+  margin-top: 50px;
+  padding-top: 50px;
+  font-family: 'Grechen Fuemen', cursive;
+  font-size: 5.625rem;
+  color: #5B7DB1;
+}
+
+h2{
+  font-size: 1.5rem;
+  font-family: 'Montserrat', sans-serif;
+  color: #5B7DB1;
+  line-height: 2;
+}
+
+h3{
+  color: #11999E;
+
+}
+
+.top-container{
+  background-color: #DFF6FF;
+  position: relative;
+  padding-top: 50px;
+  padding-bottom: 35px;
+}
+
+.picture{
+  height: 250px;
+  width: 250px;
+}
+
+.skill-picture{
+  width: 18%;
+  float: left;
+  margin-right: 30px;
+}
+
+.design-picture{
+  width:18%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.middle-container{
+  background-color:#FFF2F2;
+  padding-bottom: 50px;
+}
+
+
+
+.skill-row{
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-container{
+  background-color: #DFF6FF;
+
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.cloud-bot{
+  position: absolute;
+}
+
+.cloud-top{
+  position:absolute;
+  right: 500px;
+  top: 30px;
+
+}
+
+
+hr {
+    border: none;
+  border-top:4px dotted gray;
+  width:10%;
+  margin-top: 50px;
+}
+
+.btn {
+
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 23px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.para{
+  margin-bottom: 50px;
+}
+
+
+.footer-link{
+  margin: 10px;
+}
